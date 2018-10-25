@@ -1,0 +1,165 @@
+{
+  "data": {
+    "endDate": null,
+    "contractProperty": "定额合同",
+    "ourPartyGroup": [
+      {
+        "contractRole": "FIRST",
+        "country": "CN",
+        "payIban": null,
+        "payTaxNumber": null,
+        "payAccountType": null,
+        "payType": "中国大陆银行账户",
+        "officePhone": "010-58733512",
+        "payBankAddress": null,
+        "legalPerson": null,
+        "partyName": "北京字节跳动网络技术有限公司",
+        "payBranchCode": null,
+        "payAddress": null,
+        "address": "北京市石景山区实兴大街30号院3号楼2层B-0035房间",
+        "payBranchName": null,
+        "contactName": null,
+        "cardType": "MDDT00000013",
+        "wechat": "",
+        "branchName": "招商银行北京首体支行",
+        "paySwiftCode": null,
+        "accountNumber": "110908649310401",
+        "payBankCode": null,
+        "payBankName": null,
+        "branchCode": null,
+        "oursideFlag": "I",
+        "payPhone": null,
+        "payAba": null,
+        "postCode": null,
+        "partyNumber": "MDCP00011033",
+        "payCpf": "",
+        "cardNumber": "91110107599635562F",
+        "payIfscCode": null
+      }
+    ],
+    "productLine": "1010",
+    "total": "500.00",
+    "inOutType": "支出类",
+    "contractUrl": "https://contract-test.bytedance.net/out/selectForContract?contractId=86363&userCode=6103089&locale=zh_CN",
+    "contractName": "亚东定额合同1",
+    "othersPartyGroup": {
+      "list": [
+        {
+          "branchCode": "110908320410402",
+          "partyName": "北京宜家家居有限公司",
+          "branchName": "招商银行股份有限公司北京阜外大街支行"
+        }
+      ]
+    },
+    "paySettleDeacription": null,
+    "contractTextUrl": "/contract/getContractInfo/text/seal?textNumber=CT20180624000011-01",
+    "contractTextName": "111.docx",
+    "purchaseDetailGroup": [
+      {
+        "dateTime": null,
+        "taxRate": "3",
+        "itemName": "商品1",
+        "quantity": "2.00",
+        "projectNumber": null,
+        "receivingAddress": "北京",
+        "description": "详情1",
+        "lineId": "12595",
+        "endTime": null,
+        "taxIncludePrice": "100.00",
+        "taxType": ""
+      },
+      {
+        "dateTime": null,
+        "taxRate": "3",
+        "itemName": "商品2",
+        "quantity": "3.00",
+        "projectNumber": null,
+        "receivingAddress": "北京",
+        "description": "详情2",
+        "lineId": "12596",
+        "endTime": null,
+        "taxIncludePrice": "100.00",
+        "taxType": ""
+      }
+    ],
+    "projectNumber": "",
+    "contractNumber": "CT20180624000011",
+    "creatorNumber": "6103089",
+    "paySettleMode": null,
+    "paymentStyle": "总价合同",
+    "paySettleRate": "按阶段",
+    "paymentDetailGroup": [
+      {
+        "fataLismUnitCode": "NATURAL_DAY",
+        "paymentCondition": "且收到发票后",
+        "paymentMode": "按比例",
+        "paymentTypeCode": "PO_PAY_PAY_TYPE_VALUE_PRE",
+        "paymentLineQuantity": "200.00",
+        "paymentType": "预付费",
+        "fataLismUnit": "自然日",
+        "moneyAvailable": "200.00",
+        "paymentModeCode": "PROPORTION",
+        "paymentTypeDetailCode": "SIGN_CONTRACT",
+        "applicatedAmount": "0.00",
+        "paymentQuantity": "0.40",
+        "payLineId": "68641",
+        "paymentTypeDetailDescription": "合同签署后",
+        "paymentConditionCode": "RECEIPT_INVOICE_ADD",
+        "actualPayedAmount": "0.00",
+        "fataLism": "60"
+      },
+      {
+        "fataLismUnitCode": "NATURAL_DAY",
+        "paymentCondition": "无需提供发票",
+        "paymentMode": "按比例",
+        "paymentTypeCode": "PO_PAY_PAY_TYPE_VALUE_POST",
+        "paymentLineQuantity": "300.00",
+        "paymentType": "后付费",
+        "fataLismUnit": "自然日",
+        "moneyAvailable": "300.00",
+        "paymentModeCode": "PROPORTION",
+        "paymentTypeDetailCode": "PROOFREAD_FINISH",
+        "applicatedAmount": "0.00",
+        "paymentQuantity": "0.60",
+        "payLineId": "68642",
+        "paymentTypeDetailDescription": "对账完成后",
+        "paymentConditionCode": "NO_INVOICE",
+        "actualPayedAmount": "0.00",
+        "fataLism": "60"
+      }
+    ],
+    "contractId": "86363",
+    "productLineName": "今日头条",
+    "category": "采购业务",
+    "projectName": "",
+    "currencyCode": "CNY",
+    "prGroup": [
+      {
+        "applicationNum": "PR1806240019",
+        "total": 40000,
+        "availableAmount": 40000,
+        "usedAmount": 300,
+        "prHeadId": "670018"
+      },
+      {
+        "applicationNum": "PR1806240018",
+        "total": 40000,
+        "availableAmount": 40000,
+        "usedAmount": 200,
+        "prHeadId": "670017"
+      }
+    ],
+    "startDate": "20180624000000",
+    "status": "已签订",
+    "statusCode": "SIGNED"
+  },
+  "dateFmt": "",
+  "debugInfo": "",
+  "dic": null,
+  "message": "",
+  "onlyData": null,
+  "session": null,
+  "status": "ok",
+  "total": null,
+  "type": ""
+}

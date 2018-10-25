@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "advancePaymentNum": "PO1810250006Y1",
+      "checked": false,
+      "payAmount": 10,
+      "prepayAmount": 10
+    },
+    {
+      "advancePaymentNum": "PO1810250006Y2",
+      "checked": false,
+      "payAmount": 15,
+      "prepayAmount": 15
+    }
+  ],
+  "dateFmt": "",
+  "debugInfo": "",
+  "dic": null,
+  "message": "",
+  "onlyData": null,
+  "session": null,
+  "status": "ok",
+  "total": null,
+  "type": ""
+}

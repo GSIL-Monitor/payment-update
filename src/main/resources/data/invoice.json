@@ -1,0 +1,109 @@
+{
+  "data": {
+    "allowIncomplete": true,
+    "currencyCode": "CNY",
+    "invoiceAmountSum": 45,
+    "invoiceIncompleteDescription": "",
+    "invoiceTaxSum": 1.31,
+    "invoiceTypeList": [
+      {
+        "code": "VAT-SPECIAL",
+        "dispLabel": "增值税专用"
+      },
+      {
+        "code": "OTHERS",
+        "dispLabel": "其它"
+      },
+      {
+        "code": "ELE-INVOICE",
+        "dispLabel": ""
+      }
+    ],
+    "invoices": [
+      {
+        "amountWithTax": 45,
+        "invoiceDate": "2018-10-25",
+        "invoiceNum": "12345678",
+        "invoiceType": "VAT-SPECIAL",
+        "invoiceTypeName": "增值税专用",
+        "shownInPo": false,
+        "taxAmount": 1.31,
+        "taxRate": 0.03,
+        "taxRateName": "3%"
+      }
+    ],
+    "paymentHeaderId": 277096,
+    "standardCurrencyCode": "",
+    "status": "INV_COMPLETE",
+    "statusList": [
+      {
+        "invoiceStatusCode": "INV_COMPLETE",
+        "invoiceStatusCodeName": "发票完整",
+        "sort": 0
+      },
+      {
+        "invoiceStatusCode": "INV_NO",
+        "invoiceStatusCodeName": "无发票",
+        "sort": 0
+      },
+      {
+        "invoiceStatusCode": "INV_SHORT",
+        "invoiceStatusCodeName": "欠发票",
+        "sort": 0
+      }
+    ],
+    "statusName": "发票完整",
+    "taxRateList": [
+      {
+        "code": "0.03",
+        "dispLabel": "3%",
+        "shownInPo": false
+      },
+      {
+        "code": "0.05",
+        "dispLabel": "5%",
+        "shownInPo": false
+      },
+      {
+        "code": "0.06",
+        "dispLabel": "6%",
+        "shownInPo": false
+      },
+      {
+        "code": "0.1",
+        "dispLabel": "10%",
+        "shownInPo": false
+      },
+      {
+        "code": "0.11",
+        "dispLabel": "11%",
+        "shownInPo": false
+      },
+      {
+        "code": "0.13",
+        "dispLabel": "13%",
+        "shownInPo": false
+      },
+      {
+        "code": "0.16",
+        "dispLabel": "16%",
+        "shownInPo": false
+      },
+      {
+        "code": "0.17",
+        "dispLabel": "17%",
+        "shownInPo": false
+      }
+    ],
+    "taxRateNotShownInPoWarning": "AP_TAX_RATE_NOT_IN_PO_WARNING"
+  },
+  "dateFmt": "",
+  "debugInfo": "",
+  "dic": null,
+  "message": "",
+  "onlyData": null,
+  "session": null,
+  "status": "ok",
+  "total": null,
+  "type": ""
+}
