@@ -1,12 +1,12 @@
 {
   "data": [
     {
-      "apCostSharingId": null,
+      "apCostSharingId": 39,
       "bizTypeCode": "MDBS00000001",
       "bizTypeName": "返回成本",
       "costCode": "288980000064975570",
       "costName": "GP DCIT",
-      "costSharingAmt": null,
+      "costSharingAmt": 25,
       "createdBy": "",
       "creationDate": null,
       "deptCode": "MDCC00008850",
@@ -14,8 +14,9 @@
       "languageCode": "",
       "lastUpdateDate": null,
       "lastUpdatedBy": "",
-      "paymentHeaderId": null,
+      "paymentHeaderId": 277096,
       "poHeaderId": null,
+      "poLineId": "556038",
       "productCode": "1010",
       "productName": "今日头条"
     }

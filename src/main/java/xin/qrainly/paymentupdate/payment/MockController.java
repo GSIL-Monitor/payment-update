@@ -144,6 +144,19 @@ public class MockController {
         return JsonResult.okJsonResultWithData(data);
     }
 
+    /**
+     * 11
+     * @return
+     * @throws Exception
+     */
+    @RequestMapping("/load_ras_info")
+    @ResponseBody
+    public JsonResult test11() throws Exception {
+        JSONObject jsonObject = getRoleJson("ras.json");
+        JSONObject data = jsonObject.getJSONObject("data");
+        return JsonResult.okJsonResultWithData(data);
+    }
+
 
     /**
      * 读取文件

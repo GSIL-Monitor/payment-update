@@ -2,7 +2,7 @@
   "data": [
     {
       "advancePaymentNum": "PO1810250006Y1",
-      "checked": false,
+      "checked": true,
       "payAmount": 10,
       "prepayAmount": 10
     },
